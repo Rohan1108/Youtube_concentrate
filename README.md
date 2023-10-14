@@ -3,7 +3,7 @@
 #<strong>Youtube Concentrate</strong>\
 <br/>
 Introducing a revolutionary tool designed to enhance your focus and minimize Youtube distractions.
-By activating the "Youtube Focus" extension, you gain an incredible advantage in maintaining your concentration and avoiding the attracting YouTube's recommended videos. No longer will your attention be hijacked by flashy thumbnails vying for your clicks. Instead, you'll find a clean and clutter-free interface, allowing you to focus solely on the content you seek.
+By activating the "Youtube Concentrate" extension, you gain an incredible advantage in maintaining your concentration and avoiding the attracting YouTube's recommended videos. No longer will your attention be hijacked by flashy thumbnails vying for your clicks. Instead, you'll find a clean and clutter-free interface, allowing you to focus solely on the content you seek.
 
 Features:
 - Just hides the homepage content of youtube by changing the style of homepage content to display none.
